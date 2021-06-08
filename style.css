@@ -1,0 +1,33 @@
+body
+{
+    text-align: center;
+    background-color: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}    
+
+html{
+    scroll-behavior: smooth;
+    
+}
+
+#video{
+    width: 100px;
+    height: 500px;
+    border: none;
+    
+        
+}
+
+#marquestyle{
+    background-color: aqua;
+    color: aliceblue;
+    
+
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+#map iframe{
+    width: 100%
+}
